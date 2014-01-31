@@ -263,6 +263,30 @@ input[type=submit] {
     background-color: #1abc9c;
     cursor: pointer; }
 
+.chall-box-empty {
+  box-sizing: border-box;
+  padding: 20px 10px;
+  color: white;
+  position: relative;
+  height: 150px;
+  width: 150px;
+  background-color: #34495e; }
+  .chall-box-empty h2.challtype, .chall-box-empty h1.points, .chall-box-empty p.name {
+    margin: 0;
+    margin: auto;
+    font-family: Lato;
+    text-align: center; }
+  .chall-box-empty p.name {
+    margin: 10px 0;
+    font-size: 16px; }
+  .chall-box-empty h1.points {
+    font-size: 40px; }
+  .chall-box-empty h2.challtype {
+    font-size: 20px; }
+  .chall-box-empty:hover {
+    background-color: #34495e;
+    cursor: pointer; }
+
 .chall-box-pwned {
   box-sizing: border-box;
   padding: 20px 10px;
@@ -288,6 +312,9 @@ input[type=submit] {
   .chall-box-pwned:hover {
     background-color: #34495e;
     cursor: pointer; }
+  .chall-box-pwned:hover {
+    color: white;
+    border: 3px solid white; }
 
 .task-box-crypto {
   background-color: #c0392b; }

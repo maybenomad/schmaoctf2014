@@ -134,10 +134,15 @@ input[type=text] {
 .chall-box-orange { @include chall-box(#d35400, #e67e22); }
 .chall-box-grey { @include chall-box(#7f8c8d, #95a5a6); }
 .chall-box-green2 { @include chall-box(#16a085, #1abc9c); }
+.chall-box-empty { @include chall-box($blue, $blue); }
 .chall-box-pwned { 
 	@include chall-box(#34495e, #34495e); 
 	border: 3px solid #2c3e50;
 	color: #2c3e50;
+	&:hover {
+		color: white;
+		border: 3px solid white;
+	}
 }
 
 .task-box-crypto { background-color: #c0392b; }
