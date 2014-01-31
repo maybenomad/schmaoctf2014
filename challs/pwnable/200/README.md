@@ -1,9 +1,7 @@
-# %secrets
+# NOTEBOX
 
     Get the flag. 
 
-**Provided files:** Source and binary  
-**Compilation:** No protections, ELF32  
+**Provided files:** Source
 **Links:**  
-[String Format Vulnerability](http://crypto.stanford.edu/cs155/papers/formatstring-1.2.pdf)
-
+[Code Injection](http://en.wikipedia.org/wiki/Code_injection)
