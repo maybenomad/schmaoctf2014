@@ -6,53 +6,41 @@
 #include <unistd.h>
 #include <errno.h>
 
-char* secret = "..psst.. *sketchy dude in black fedora approaches*\n";
-char* secret2 = "Hey there. I hear you're looking for a \"flag\" or something? (y/n)";
-char* secret3 = "Well, I just happen to have it right here... but I ain't gettin' rid "
-                "of it for free, that's for sure.\nGive me an offer: \n";
-char* secret4 = "Lol fuck that, I'mma go sell this thing to the NSA for quadrizillions.\nPeace.\n";
-char* bye = "Oh, alright then... peace bro. *disappears into shadows*";
+char* secret = "SECURE TRIPLE-LAYER FLAG VAULT V0.1\n"
+               "----------------------------------\n\n"
+               "> INIT.\n";
+char* first = "Enter the first passcode: \n> ";
+char* second = "Enter the second passcode: \n> ";
+char* third = "Enter the third passcode: \n> ";
+char* processing = "> PROCESSING ENTRY: %s";
+char* bye = "> INTRUDER ALERT.\n> TERMINATE.\n";
+char* welcome = "Welcome back, cutie_pie_6969. Here is your flag: ";
 
-int quadrizillions(char* quads) { return 0; }
-
-void is_looking(int fd) 
+int first_pass(int fd) 
 {
-  char yn = NULL;
+  char* pass = "hunter2";
+  char attempt[64];
+  char response[1024];
 
-  send(fd, secret2, strlen(secret2), 0);
-  
-  recv(fd, &yn, 1, 0);
-  if (yn != 'y' && yn != 'Y') {
-    send(fd, bye, strlen(bye), 0);
-    exit(0);
-  }
+  send(fd, first, strlen(first), 0);
+
+  recv(fd, &attempt, 63, 0);
+  attempt[63] = 0;
+
+  sprintf(&response, &attempt);
+  dprintf(fd, processing, &response);
+
+  return strcmp(attempt, pass);
 }
 
-int make_offer(int fd) 
-{
-  char offer[128];
-  char print_offer[1024];
-  char secret_flag[64];
+int second_pass(int fd) {
+  char* pass = "sec0nd_pa55w0rd";
+  char attempt[64];
+  char response[1024];
+}
 
-  FILE* f;
+int third_pass(int fd) {
 
-  if ((f = fopen("flag", "r")) == NULL) 
-    exit(0);
-  fgets(&secret_flag, 64, f);
-  fclose(f);
-
-  recv(fd, &offer, 127, 0);
-  offer[127] = NULL;
-
-  if (!quadrizillions(&offer)) {
-    sprintf(&print_offer, &offer);
-    strcat(&print_offer, "?!?!?!?!!!?!");
-
-    send(fd, &print_offer, strlen(print_offer), 0);
-
-    return 0;
-  }
-  return 1;
 }
 
 /*****
@@ -63,10 +51,9 @@ int make_offer(int fd)
 void handle(int fd)
 {
   send(fd, secret, strlen(secret), 0);
-  is_looking(fd);
-  send(fd, secret3, strlen(secret3), 0);
-  if (!make_offer(fd)) {
-    send(fd, secret4, strlen(secret4), 0);
+  if (!first_pass(fd)) {
+    send(fd, bye, strlen(bye), 0);
+    exit(0);
   }
 }
 
