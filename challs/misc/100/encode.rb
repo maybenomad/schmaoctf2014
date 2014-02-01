@@ -1,0 +1,1 @@
+require 'socket'; s = TCPSocket.new 'localhost', 31337; s.write('IAMLEET.'); data = s.read(4); while data do $stdout.write data; data = s.read(4) end; s.close

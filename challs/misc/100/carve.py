@@ -6,7 +6,7 @@ with open('original_qr.png') as f:
 
 data = data.split('IEND')
 
-fake_chunk_data = "import socket;s = socket.socket(socket.AF_INET, socket.SOCK_STREAM);s.connect(('localhost', 31337));s.send('RDY.');print s.recv(4096);s.close()"
+fake_chunk_data = "require 'socket'; s = TCPSocket.new 'localhost', 31337; s.write('IAMLEET.'); data = s.read(4); while data do $stdout.write data; data = s.read(4) end; s.close"
 fake_chunk_header = "eCXI"
 fake_chunk_len = struct.pack('<I', len(fake_chunk_data))
 fake_chunk_crc = struct.pack('<I', binascii.crc32(fake_chunk_data))
