@@ -16,7 +16,7 @@
 
 **Files:** encrypt.py  
 **Links:**  
-[XOR Cipher](http://en.wikipedia.org/wiki/XOR_cipher)
+[XOR Cipher](http://en.wikipedia.org/wiki/XOR_cipher)  
 [Known Plaintext Attack](http://en.wikipedia.org/wiki/Known-plaintext_attack)
 
 # Solution
