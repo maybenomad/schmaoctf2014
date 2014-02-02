@@ -2,13 +2,7 @@ import SocketServer
 import subprocess
 import random
 import string
-
-BANNER = ("""Welcome to NOTEBOX, the PREMIERE note saving service!
-Use `help` to see options.\n\n""")
-
-HELP = ("""list - list all previous notes!
-new <data> - create a new note!
-read <filename> - read a note (filename of format note_XXXXXXXX)\n""")
+import os
 
 def random_string():
     return ''.join(random.sample(string.hexdigits, 8))
@@ -25,21 +19,20 @@ class Handler(SocketServer.BaseRequestHandler):
 
     def handle(self):
         shell = True
-        self.request.send(BANNER)
+        files = []
 
         while shell:
-            COMMANDS = ["read", "new", "list", "help"]
+            COMMANDS = ["read", "new", "list"]
 
-            self.request.sendall('NOTEBOX> ')
+            self.request.sendall('\n%')
             data = self.request.recv(1024).strip().split(' ')
 
             cmd = data[0].strip()
             args = data[1:]
 
-            print data[0]
             if cmd not in COMMANDS:
-                self.request.send("HACKING ATTEMPT!")
-                exit(0)
+                self.request.send("KEEP OUT!")
+                break
 
             if cmd == "read":
                 if len(args) != 1 or len(args[0]) != 13:
@@ -54,11 +47,14 @@ class Handler(SocketServer.BaseRequestHandler):
                 output = shell_exec("/bin/echo \"%s\" > %s" % (msg, filename))
                 self.request.send(output)
                 self.request.send("Note written to %s!\n" % filename)
+                files.append(filename)
             elif cmd == "list": 
                 output = shell_exec("/bin/ls notes")
                 self.request.send(output)
-            elif cmd == "help":
-                self.request.send(HELP)
+
+        for f in files:
+            os.remove(f)
+
 
 
 def drop_privs(gid, uid):
