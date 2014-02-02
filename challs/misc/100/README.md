@@ -1,8 +1,8 @@
 # Enc0ded
 
-		They told us this server would send us a flag but its
-		just sending us some shitty picture. Would you straighten
-		this out? 
+		BMO told us this server would send us a flag but its
+		just sending us some stupid flipping picture! Would you 
+		straighten this out? 
 
 		host:ip
 
