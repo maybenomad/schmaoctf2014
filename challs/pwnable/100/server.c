@@ -6,31 +6,12 @@
 #include <unistd.h>
 #include <errno.h>
 
-char* camel = 
-"                                                        =--_\n"
-"                                         .-\"\"\"\"\"\"-.     |* _)\n"
-"                                        /          \\\\  /  /\n"
-"                                       /            \\_/  /\n" "           _                          /|                /\n"
-"       _-'\"/\\                        / |    ____    _.-            _\n"
-"    _-'   (  '-_            _       (   \\  |\\  /\\  ||           .-'\".\".\n"
-"_.-'       '.   `'-._   .-'\"/'.      \"   | |/ /  | |/        _-\"   (   '-_\n"
-"             '.      _-\"   (   '-_       \\ | /   \\ |     _.-'       )     \"-._\n"
-"           _.'   _.-'       )     \"-._    ||\\\\   |\\\\  '\"'        .-'\n"
-"         '               .-'          `'  || \\\\  ||))\n"
-"jjs__  _  ___  _ ____________ _____  ___ _|\\ _|\\_|\\\\/ _______________  ___   _\n"
-"                       c  c  \" c C \"\"C  \" \"\"  \"\" \"\"\n"
-"                   c       C\n"
-"              C        C\n"
-"                   C\n"
-"    C     c\n";
-
-char* welcome = "WELCUM TO A DESERT AVENTURE!!!!\nTO GET ROOTZ, U MUST BEET...\n\n";
-char* this_camel = "AN ANGRY FUCKN CAMEL (he pissed cuz he just want some potartz)\n\n";
-char* what_attack = "ENTER UR ULTIMET CAMMEL KILLIN ATTACK: ";
-char* nope = "UR ATTACK MISSED!\n";
-char* laser_beam = "ANGRY FUCKN CAMEL USES LAZER BEAMCOIN DOGE PAUL ATTACK!!!!!\n";
+char* one = "To pass this bridge, you must first pass the test of the riddle.\n";
+char* two = "Brace yourself, fool, for this riddle comes from a mysterious, far-away land.\n";
+char* three = "Yes, um... The riddle, uh... It... cometh... uh...\n";
+char* four = "THE RIDDLE COMETH! Tell me, voyager. What is simple, and yet also... a riddle?\n";
+char* nope = "THAT IS THE WRONG ANSWER!! The penalty is... DEATH BY SNAKES!!\n";
 char* ded = "U DED! :(";
-char* win = "CAMML BLOWZ UP INTO DESRT OASIS FILED WIT HOT MODEL BABEZ CONGRATULASHUN!!!1\n";
 
 /*****
  * 
@@ -42,16 +23,17 @@ void handle(int fd)
   int can_has_flagz = 0;
   char attack[4096];
 
-  send(fd, welcome, strlen(welcome), 0);
+  send(fd, one, strlen(one), 0);
   sleep(3);
-  send(fd, camel, strlen(camel), 0);
-  send(fd, this_camel, strlen(this_camel), 0);
-  send(fd, what_attack, strlen(what_attack), 0);
+  send(fd, two, strlen(two), 0);
+  sleep(3);
+  send(fd, three, strlen(three), 0);
+  sleep(3);
+  send(fd, four, strlen(four), 0);
 
   recv(fd, attack, 0x1003, 0);
 
   if (can_has_flagz) {
-    send(fd, win, strlen(win), 0);
     dup2(fd, 0); dup2(fd, 1); dup2(fd, 2);
     char* argv[] = {"/bin/cat", "flag", NULL};
     execve(argv[0], argv, NULL);
@@ -60,7 +42,6 @@ void handle(int fd)
 
   send(fd, nope, strlen(nope), 0);
   sleep(3);
-  send(fd, laser_beam, strlen(laser_beam), 0);
   send(fd, ded, strlen(ded), 0);
 }
 
