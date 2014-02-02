@@ -1,0 +1,2789 @@
+Aarakocra
+Aasimar (Player Race)
+Aballin
+Abeil
+Abeil, Queen
+Abeil, Soldier
+Abeil, Vassal
+Abishai, Black (Baatezu)
+Abishai, Blue (Baatezu)
+Abishai, Green (Baatezu)
+Abishai, Red (Baatezu)
+Abishai, White (Baatezu)
+Aboleth
+Aboleth Mage
+Aboleth, Psionic
+Abomination, Anaxim
+Abomination, Attropal
+Abomination, Chichimec
+Abomination, Dream Larva
+Abomination, Hecatoncheires
+Abomination, Infernal
+Abomination, Phaethon
+Abomination, Phane
+Abomination, Xixecal
+Abrian
+Abyssal Eviscerator
+Abyssal Maw
+Abyssal Ravager
+Abyssal Stalker
+Achaierai
+Adverspa
+Ahuitzol
+Alaghi
+Albatross
+Aleax
+Alkilith (Tanar'ri)
+All-Consuming Hunger
+Allip
+Ambush Drake
+Amnizu
+Amphibious Creature (Template)
+Amphisbaena
+Anarchic Creature (Template)
+Anarchic Creature (Template)
+Ancient Night Twist
+Androsphinx
+Angel
+Angel of Decay
+Anguillian
+Animal, Arctic
+Animal, Dire
+Animated Object
+Animated Object, Colossal
+Animated Object, Gargantuan
+Animated Object, Huge
+Animated Object, Large
+Animated Object, Medium
+Animated Object, Small
+Animated Object, Tiny
+Animated Rug of Welcome
+Ankheg
+Annihilator
+Ant Lion, Giant
+Ant, Giant
+Ant, Giant Queen
+Ant, Giant Soldier
+Ant, Giant Worker
+Anthropomorphic Animal (Template)
+Aoa, Droplet
+Aoa, Sphere
+Ape
+Ape, Dire
+Ape, Legendary
+Arachnoid Creature (Template)
+Arachnoid Creature (Template)
+Aranea
+Arbalester, Homunculus
+Archon
+Archon
+Archon, Hammer
+Archon, Hound
+Archon, Hound Hero
+Archon, Lantern
+Archon, Owl
+Archon, Sword
+Archon, Throne
+Archon, Trumpet
+Archon, Warden
+Archon, Word
+Armand
+Armand Warden
+Armanite, Demon (Tanar'ri)
+Arrowhawk
+Arrowhawk, Adult
+Arrowhawk, Elder
+Arrowhawk, Juvenile
+Artaaglith
+Asabi
+Ascendant Councilor
+Ash Rat
+Ashen Husk
+Asherati
+Ashworm
+Aspect of Asmodeus
+Aspect of Bahamut
+Aspect of Demogorgon
+Aspect of Hextor
+Aspect of Kord
+Aspect of Lolth
+Aspect of Mephistopheles
+Aspect of Nerull
+Aspect of Orcus
+Aspect of Tiamat
+Aspect of Vecna
+Asperi
+Assassin Vine
+Astral Construct
+Astral Deva (Angel)
+Astral Dreadnought
+Astral Kraken
+Astral Stalker
+Asura
+Athach
+Atropal Scion
+Automaton
+Automaton, Hammerer
+Automaton, Pulverizer
+Avalancher
+Aventi
+Aventi Sergeant
+Avolakia
+Axiomatic Creature (Template)
+Axiomatic Creature (Template)
+Axiomatic Creature (Template)
+Azer
+Azurin
+Babau (Demon)
+Babau (Tanar'ri)
+Baboon
+Bacchae
+Badger
+Badger, Dire
+Bahamut, the Platinum Dragon
+Bajang
+Bakemono
+Baleen Whale
+Bane Wraith
+Banedead
+Baneguard
+Baneguard
+Banelar
+Banshee
+Baphitaur
+Barbed Devil (Hamatula)
+Barghest
+Barghest, Greater
+Barghest, Greater
+Bariaur
+Bariaur
+Bariaur, Defender of Ysgard
+Bar-lgura (Tanar'ri)
+Barracuda
+Barracuda, Dire
+Basilisk
+Basilisk, Abyssal Greater
+Bat
+Bat, Desmodu
+Bat, Desmodu Guard
+Bat, Desmodu War
+Bat, Dire
+Bat, Fire
+Bat, Guard
+Bat, Hunting
+Bat, War
+Battle Effigy
+Battle Horror
+Battlebriar
+Bazim-Gorag, the Firebringer
+Bear, Black
+Bear, Brown
+Bear, Dire
+Bear, Legendary
+Bear, Legendary
+Bear, Polar
+Bearded Devil (Barbazu)
+Bearhound
+Beast of Malar
+Beast of Xvim (Template)
+Bebilith (Demon)
+Bee, Giant
+Beetle, Devastation
+Beetle, Giant Bombadier
+Beetle, Giant Fire
+Beetle, Giant Stag
+Beetle, Knell
+Beetle, Knell Lesser
+Beguiler
+Behemoth
+Behemoth, Eagle
+Behemoth, Gorilla
+Behir
+Behir, Halruaan
+Beholder
+Beholder, Death Tyrant
+Beholder, Gauth
+Beholderkin
+Beholderkin, Death Kiss
+Beholderkin, Director
+Beholderkin, Eye of the Deep
+Beholderkin, Eyeball
+Beholderkin, Gouger
+Beholderkin, Hive Mother
+Beholderkin, Overseer
+Beholderkin, Spectator
+Beholderkin, Spectator
+Belker
+Bheur
+Bhuka
+Bhut
+Bisan
+Bison
+Black Pudding
+Black Pudding, Elder
+Blackskate
+Blackstone Gigant
+Blade Guardian
+Blade Spirit
+Bladeling
+Blaspheme
+Bleakborn
+Blightspawned (Template)
+Blink Dog
+Blood Amniote
+Blood Ape
+Blood Fiend
+Blood Hawk
+Bloodbloater
+Blooded One (Template)
+Bloodmote Cloud
+Bloodrot
+Bloodthorn
+Blue
+Boar
+Boar, Dire
+Boar, Razor
+Bodak
+Bog Hag
+Bog Imp
+Boggle
+Bogun
+Bogun
+Bogun
+Bone Creature (Template)
+Bone Devil (Osyluth)
+Bonebat
+Boneclaw
+Bonedrinker
+Bonedrinker, Lesser
+Boneleaf
+Bonesinger
+Bonespear
+Boneyard
+Brachyurus
+Brain in a Jar
+Brain Mole
+Bralani (Eladrin)
+Branta
+Branta
+Brass Steed
+Braxat
+Breathdrinker
+Breed Leech
+Bright Naga
+Brine Swimmer
+Brixashulty
+Bronze Serpent
+Brood Keeper
+Bugbear
+Bulette
+Bullywug
+Burning Skeleton
+Buso, Tigbanua
+Cachalot Whale
+Cadavar Collector
+Cadavar Collector, Greater
+Caller from the Deeps
+Caller in Darkness
+Camel
+Camel, Dromedary
+Camel, Two-Humped
+Camel, War
+Camelopardel
+Canoloth, Yugoloth
+Canomorph
+Captured One
+Carcass Crab
+Carcass Eater
+Caribou
+Carrion Crawler
+Caryatid Column
+Cat
+Cat, Sea
+Catfolk
+Catoblepas
+Cavvekan
+Celestial
+Celestial Creature
+Centaur
+Centipede, Least Spirit
+Centipede, Lesser Spirit
+Centipede, Monstrous
+Centipede, Small Spirit
+Century Worm
+Ceratosaur
+Cerebrilith
+Cervidal (Celestial)
+Chaggrin, Elemental Grue
+Chain Devil (Kyton)
+Chameleon Creature (Template)
+Changeling
+Chaos Beast
+Chaos Roc
+Charnel Hound
+Chasme (Tanar'ri)
+Cheetah
+Chekryan
+Chelicera
+Chiang Lung (River Dragon)
+Chilblain
+Chilling Fog
+Chimera
+Chimeric Creature (Template)
+Chitine
+Choker
+Choker, Shadow
+Choldrith
+Chordevoc
+Chosen One
+Chraal
+Chronotyryn
+Chuul
+Chwidencha
+Cildabrin
+Cinderspawn
+Climbdog
+Cloaked Ape
+Cloaker
+Cloaker Lord
+Cloaker, Shadowcloak Elder
+Cloaker, Shadowcloak Elder
+Clockwork Horror
+Cloud Ray
+Cockatrice
+Cockroach, Giant
+Colossus
+Colossus, Flesh
+Colossus, Iron
+Colossus, Stone
+Constrictor Snake
+Constrictor Snake, Giant
+Corollax
+Corpse Creature (Template)
+Corpse Gatherer
+Corrupted Cretaure (Template)
+Corruption Eater
+Couatl
+Couatl, Psionic
+Crab, Monstrous
+Crawling Apocalypse
+Crawling Claw
+Crawling Claw
+Crawling Gauntlet
+Crawling Head
+Crimson Death
+Criosphinx
+Crocodile
+Crocodile, Giant
+Crossroads Guardian
+Crucian
+Crucian
+Cryohydra
+Crypt Chanter
+Crypt Spawn (Template)
+Crypt Thing
+Crypt Warden
+Crysmal
+Crystal Screamer
+Cursed Cold One (Gelun)
+Cursed Spirit
+Curst (Template)
+Curst (Template)
+Cyclops, Giant
+Cyclops, Greater
+Cyclops, Lesser
+Daelkyr
+Darfellan
+Darfellen Barbarian
+Dark Creature (Template)
+Dark Creeper
+Dark Ones
+Dark Stalker
+Dark Tree
+Dark Tree
+Darkenbeast
+Darkmantle
+Darktentacles
+Darkweaver
+Deadly Dancer
+Death Dog
+Death Knight
+Death Knight (Template)
+Deathbringer
+Deathcoils
+Deathfang
+Deathlock
+Deathshead
+Deathshrieker
+Deathshrieker, Advanced
+Deep Hound
+Deepspawn
+Deepspawn
+Deer
+Delver
+Demilich
+Demodand
+Demon
+Demon
+Demon
+Demon, Arrow
+Demon, Balor
+Demon, Blood Fiend
+Demon, Ghour
+Demon, Ghour
+Demon, Maurezhi (Tanar'ri)
+Demon, Sorrowsworn
+Demon, Yochlol
+Dendar the Night Serpent
+Derro
+Desert Devil (Araton)
+Desiccator
+Desmodu
+Desmodu
+Desmodu
+Destrachan
+Deva
+Deva, Monadic
+Devastation Centipede
+Devastation Vermin
+Devastation, Scorpion
+Devil
+Devil
+Devil
+Devil, Logokron
+Devourer
+Dharculus
+Digester
+Dinosaur
+Dinosaur
+Dinosaur
+Dinosaur, Allosaurus
+Dinosaur, Ankylosaurus
+Dinosaur, Archelon
+Dinosaur, Battletitan
+Dinosaur, Bloodstriker
+Dinosaur, Cave Ankylosaurus
+Dinosaur, Cave Triceratops
+Dinosaur, Cave Tyrannosaurus
+Dinosaur, Clawfoot
+Dinosaur, Cryptoclidus
+Dinosaur, Deinonychus
+Dinosaur, Diprotodon
+Dinosaur, Elasmosaurus
+Dinosaur, Fastieth
+Dinosaur, Fleshraker
+Dinosaur, Glidewing
+Dinosaur, Icthyosaur
+Dinosaur, Megaraptor
+Dinosaur, Mosasaur
+Dinosaur, Pleiosaur
+Dinosaur, Protoceratops
+Dinosaur, Quetzalcoatlus
+Dinosaur, Seismosaurus
+Dinosaur, Spinosaurus
+Dinosaur, Swindlespitter
+Dinosaur, Triceratops
+Dinosaur, Tyrannosaurus
+Dire Animal
+Dire Animal
+Dire Animal
+Direguard
+Disenchanter
+Displacer Beast
+Displacer Beast, Pack Lord
+Displacer Serpent
+Djinni
+Djinni, Noble
+Doc Cu'o'c
+Dog
+Dog, Riding
+Dokufu
+Dolgaunt
+Dolghast
+Dolgrim
+Domovoi
+Donkey
+Doppelganger (Player Race)
+Doppelganger, Greater
+Doppleganger
+Dracolich
+Dracolich
+Dracolich, Ancient Blue
+Draconian, Aurak
+Draconian, Baaz
+Draconian, Bozak
+Draconian, Kapak
+Draconian, Sivak
+Draconic Creature (Template)
+Draconic Creature (Template)
+Dracotaur
+Dracotaur Rager
+Draegloth, Half-Fiend
+Dragon Eel
+Dragon Turtle
+Dragon, Advanced
+Dragon, Amethyst
+Dragon, Battle (Planar)
+Dragon, Black
+Dragon, Blue
+Dragon, Brass
+Dragon, Bronze
+Dragon, Brown
+Dragon, Chaos (Planar)
+Dragon, Chromatic
+Dragon, Copper
+Dragon, Crystal
+Dragon, Deep
+Dragon, Emerald
+Dragon, Epic
+Dragon, Epic Force
+Dragon, Epic Prismatic
+Dragon, Ethereal (Planar)
+Dragon, Faerie
+Dragon, Fang
+Dragon, Fang
+Dragon, Gem
+Dragon, Ghostly
+Dragon, Ghostly Adult Green
+Dragon, Gold
+Dragon, Green
+Dragon, Howling (Planar)
+Dragon, Incarnum
+Dragon, Metallic
+Dragon, Oceanus (Planar)
+Dragon, Planar
+Dragon, Pyroclastic (Planar)
+Dragon, Radiant (Planar)
+Dragon, Rattelyr
+Dragon, Red
+Dragon, Rust (Planar)
+Dragon, Sand
+Dragon, Sapphire
+Dragon, Shadow
+Dragon, Shadow
+Dragon, Silver
+Dragon, Skeletal
+Dragon, Skeletal Mature Adult Black
+Dragon, Song
+Dragon, Spiretop
+Dragon, Styx (Planar)
+Dragon, Tarterian (Planar)
+Dragon, Topaz
+Dragon, True
+Dragon, Vampiric
+Dragon, Vampiric Mature Adult Red
+Dragon, White
+Dragon, Zombie
+Dragon, Zombie Young Adult Whitye
+Dragonborn of Bahamut (Player Race
+Dragonfly, Giant
+Dragonkin
+Dragonkin
+Dragonne
+Dragonnel
+Dragonspawn (Template)
+Drake, Abyssal
+Drake, Air
+Drake, Earth
+Drake, Elemental
+Drake, Fire
+Drake, Ice
+Drake, Magma
+Drake, Ooze
+Drake, Sea
+Drake, Smoke
+Drake, Stone
+Drake, Storm
+Drake, Water
+Dread
+Dread Guard
+Dread Ram
+Dread Warrior
+Dread Warrior (Template)
+Dread Warrior (Template)
+Dread Wraith
+Dream Vestige
+Dretch (Demon)
+Drider
+Drider Vampire
+Dromite
+Drowned
+Dryad
+Dune Stalker
+Dunewinder
+Dusk Beast, Ephemera
+Duskling
+Dust Twister
+Dustblight
+Dustform Creature (Template)
+Dust-Stuffed (Template)
+Dwarf
+Dwarf Einherjar
+Dwarf, Deep
+Dwarf, Dream (Player Race)
+Dwarf, Duergar
+Dwarf, Duergar Psionic
+Dwarf, Faerunian
+Dwarf, Frost
+Dwarf, Glacier
+Dwarf, Glacier Snow Hunter
+Dwarf, Midgard
+Dwarf, Mountain
+Dweomervore
+Eagle
+Eagle, Dire
+Eagle, Giant
+Eagle, Giant
+Eagle, Legendary
+Earth Glider
+Earth Whisper
+Ecalypse, Ephemera
+Ectoplasmic Vermin
+Eel
+Eel, Dire
+Effigy
+Effigy Creature (Template)
+Efreeti
+Eidolon, Elder
+Eladrin
+Eladrin
+Eladrin, Coure
+Eladrin, Firre
+Eladrin, Shiradi
+Eladrin, Tulani
+Elan
+Elder Brain
+Elder Brain
+Elder Brain, Psionic
+Element Creature (Template)
+Elemental
+Elemental Weird
+Elemental Weird
+Elemental Weird, Ice
+Elemental Weird, Snow
+Elemental, Air
+Elemental, Air Primal
+Elemental, Earth
+Elemental, Earth Primal
+Elemental, Elder Shadow
+Elemental, Fire
+Elemental, Fire Primal
+Elemental, Greater Shadow
+Elemental, Huge Shadow
+Elemental, Large Shadow
+Elemental, Medium Shadow
+Elemental, Primal
+Elemental, Small Shadow
+Elemental, Storm
+Elemental, Water
+Elemental, Water Primal
+Elephant
+Elephant, Dire
+Elephant, Dire
+Elf
+Elf, Aquatic
+Elf, Aquatic
+Elf, Aquatic Dolphin Rider
+Elf, Drow
+Elf, Einherjar
+Elf, Gray
+Elf, Wild
+Elf, Wood
+Elite Demon War Mount
+Elk
+Elk, Dire
+Elk, Dire
+Elsewhale
+Eltab, Lord of the Hidden Layer
+Elven Hound
+Elysian Thrush
+Energon, Xac-Yel
+Energon, Xac-Yij
+Energon, Xag-Ya
+Energon, Xap-Yaup
+Energon, Xeg-Yi
+Energon, Xong-Yong
+Energon, Xor-Yost
+Entombed
+Entomber
+Entropic Creature (Template)
+Entropic Reaper
+Ephemeral Hangman
+Equiceph
+Equine, Amphail Gray
+Equine, Calimite
+Equine, Chionthar
+Equine, Cormyrean Destrier
+Equine, Dales Pony
+Equine, Dambraii
+Equine, Hammer Pony
+Equine, Island Pony
+Equine, Kromlor
+Equine, Lhesperan
+Equine, Meth
+Equine, Nars
+Equine, Raurin
+Equine, Semphari
+Equine, Shaaran Zebra
+Equine, Shad'iar
+Equine, Sosser
+Equine, Steppe
+Equine, Tharurr
+Equine, Uglib
+Equine, Whiteshield
+Erinyes (Devil)
+Ether Scarab
+Ethereal Doppleganger
+Ethereal Filcher
+Ethereal Marauder
+Ethereal Slayer
+Ethergaunt
+Ethergaunt, Black
+Ethergaunt, Red
+Ethergaunt, White
+Ettercap
+Ettin
+Evolved Undead (Template)
+Eye of Fear and Flame
+Faerunian Ha-Naga
+Faerzress-Infused Creature (Template)
+Famine Spirit
+Farastu (Demodand)
+Faun
+Felldrake
+Felldrake, Crested
+Felldrake, Horned
+Felldrake, Spiked
+Felldrake, Spitting
+Fensir
+Feral Spirit
+Feral Yowler
+Fetch
+Fey'ri
+Feytouched
+Fhorge
+Fiendish Creature
+Fiendwurm
+Fihyr
+Fihyr, Greater
+Firbolg
+Firefly, Giant
+Firenewt
+Fireshadow
+Firre, Celestial (Eladrin)
+Flame Snake, Greater
+Flame Snake, Lesser
+Flame Snake, Minor
+Flameskull
+Flesh Jelly
+Folugub
+Fomorian
+Forest Sloth
+Forgewraith
+Forlorn Husk
+Formarian
+Formarian, Armadon
+Formarian, Observer
+Formarian, Winged Warrior
+Formian
+Formian Myrmarch
+Formian Queen
+Formian Taskmaster
+Formian Warrior
+Formian Worker
+Forsaken Shell
+Fossergrim
+Foulwing
+Fox, Arctic
+Frog, Giant
+Frost Folk
+Frost Giant Jarl
+Frost Giant, Jotunheim
+Frost Salamander
+Frost Worm
+Fungus
+Galeb Duhr
+Gambol
+Garbler
+Gargoyle
+Gargoyle, Kir-Lanan
+Gargun, Feral (Player Race)
+Gas Spore
+Energon, Xac-Yij
+Energon, Xag-Ya
+Energon, Xap-Yaup
+Energon, Xeg-Yi
+Energon, Xong-Yong
+Energon, Xor-Yost
+Entombed
+Entomber
+Entropic Creature (Template)
+Entropic Reaper
+Ephemeral Hangman
+Equiceph
+Equine, Amphail Gray
+Equine, Calimite
+Equine, Chionthar
+Equine, Cormyrean Destrier
+Equine, Dales Pony
+Equine, Dambraii
+Equine, Hammer Pony
+Equine, Island Pony
+Equine, Kromlor
+Equine, Lhesperan
+Equine, Meth
+Equine, Nars
+Equine, Raurin
+Equine, Semphari
+Equine, Shaaran Zebra
+Equine, Shad'iar
+Equine, Sosser
+Equine, Steppe
+Equine, Tharurr
+Equine, Uglib
+Equine, Whiteshield
+Erinyes (Devil)
+Ether Scarab
+Ethereal Doppleganger
+Ethereal Filcher
+Ethereal Marauder
+Ethereal Slayer
+Ethergaunt
+Ethergaunt, Black
+Ethergaunt, Red
+Ethergaunt, White
+Ettercap
+Ettin
+Evolved Undead (Template)
+Eye of Fear and Flame
+Faerunian Ha-Naga
+Faerzress-Infused Creature (Template)
+Famine Spirit
+Farastu (Demodand)
+Faun
+Felldrake
+Felldrake, Crested
+Felldrake, Horned
+Felldrake, Spiked
+Felldrake, Spitting
+Fensir
+Feral Spirit
+Feral Yowler
+Fetch
+Fey'ri
+Feytouched
+Fhorge
+Fiendish Creature
+Fiendwurm
+Fihyr
+Fihyr, Greater
+Firbolg
+Firefly, Giant
+Firenewt
+Fireshadow
+Firre, Celestial (Eladrin)
+Flame Snake, Greater
+Flame Snake, Lesser
+Flame Snake, Minor
+Flameskull
+Flesh Jelly
+Folugub
+Fomorian
+Forest Sloth
+Forgewraith
+Forlorn Husk
+Formarian
+Formarian, Armadon
+Formarian, Observer
+Formarian, Winged Warrior
+Formian
+Formian Myrmarch
+Formian Queen
+Formian Taskmaster
+Formian Warrior
+Formian Worker
+Forsaken Shell
+Fossergrim
+Foulwing
+Fox, Arctic
+Frog, Giant
+Frost Folk
+Frost Giant Jarl
+Frost Giant, Jotunheim
+Frost Salamander
+Frost Worm
+Fungus
+Galeb Duhr
+Gambol
+Garbler
+Gargoyle
+Gargoyle, Kir-Lanan
+Gargun, Feral (Player Race)
+Gas Spore
+Gaspar
+Gathra
+Gauntlet Guardian
+Gelatinous Cube
+Genie
+Genie, Dao
+Genie, Khayal
+Genie, Marid
+Genie, Qorrashi
+Genius Loci
+Geriviar
+Ghaele (Eladrin)
+Ghargatula (Baatezu)
+Ghast
+Ghaunadan
+Ghirrash, Shadow Beast
+Ghost
+Ghost
+Ghost (Template)
+Ghost Brute (Template)
+Ghost, Frostfell
+Ghosteater
+Ghoul
+Ghoul, Abyssal
+Ghoul, Abyssal
+Giant
+Giant
+Giant
+Giant, Bog
+Giant, Cloud
+Giant, Death
+Giant, Draconic Fire
+Giant, Eldritch
+Giant, Eldritch Confessor
+Giant, Fire
+Giant, Fog
+Giant, Forest
+Giant, Frost
+Giant, Frost
+Giant, Frost Mauler
+Giant, Frost Spiritspeaker
+Giant, Frost Tundra Scout
+Giant, Greater Dusk
+Giant, Least Dusk
+Giant, Lesser Dusk
+Giant, Mountain
+Giant, Muspelheim Fire
+Giant, Ocean
+Giant, Phaerlin
+Giant, Sand
+Giant, Sand Champion
+Giant, Shadow
+Giant, Stone
+Giant, Stone Elder
+Giant, Storm
+Giant, Sun
+Giant, Totem
+Gibbering Mouther
+Gibbering Mouther
+Gibbering Orb
+Gibberling
+Girallon
+Githyanki
+Githyanki
+Githyanki, Psionic
+Githzerai
+Githzerai
+Githzerai, Psionic
+Glabrezu (Demon)
+Glaistig
+Glaistig Mindbender
+Glimmerskin
+Glitterfire
+Gloom
+Gloura
+Glyptodon
+Gnoll
+Gnoll, Flind
+Gnome
+Gnome, Chaos (Player Race)
+Gnome, Fire
+Gnome, Forest
+Gnome, Svirfneblim
+Gnome, Whisper (Player Race)
+Goatfolk (Ibixian)
+Goblin
+Goblin, Dekanter
+Goblin, Forestkith
+Goblin, Snow
+Golden Protector (Celestial Half-Dragon Lammasu)
+Golem
+Golem
+Golem
+Golem
+Golem
+Golem
+Golem, Adamantine
+Golem, Alchemical
+Golem, Blood of Hextor
+Golem, Brain
+Golem, Brass
+Golem, Cadaver
+Golem, Chain
+Golem, Clay
+Golem, Coral
+Golem, Demonflesh
+Golem, Diamond Gemstone
+Golem, Dragonbone
+Golem, Dragonflesh
+Golem, Drakestone
+Golem, Emerald Gemstone
+Golem, Equine
+Golem, Flesh
+Golem, Gloom
+Golem, Grave Dirt
+Golem, Hangman
+Golem, Hellfire
+Golem, Ice
+Golem, Incarnum
+Golem, Iron
+Golem, Ironwyrm
+Golem, Mithral
+Golem, Mud
+Golem, Prismatic
+Golem, Ruby Gemstone
+Golem, Sand
+Golem, Serpentflesh
+Golem, Shadesteel
+Golem, Shadesteel Greater
+Golem, Spiderstone
+Golem, Stained Glass
+Golem, Stone
+Golem, Stone Greater
+Golem, Thayan
+Golem, Web
+Gorgon
+Goristro, Demon (Tanar'ri)
+Gorynych
+Gravecrawler
+Gravehound
+Gravetouched Ghoul (Template)
+Gravewright (Template)
+Gravorg
+Gray Glutton
+Gray Jester
+Gray Render
+Green Warder
+Greenbound Creature (Template)
+Greenvise
+Grell
+Grell
+Grick
+Griffon
+Grig
+Grimalkin
+Grimlock
+Grimweird
+Grisgol
+Grizzly Mastodon
+Groundling
+Guardgoyle
+Guardinal
+Guardinal
+Guardinal, Avoral
+Guardinal, Equinal
+Guardinal, Musteval
+Guardinal, Ursinal
+Gulgar
+Gulguthydra
+Gynosphinx
+Hadozee
+Hadozee First Mate
+Hag
+Hag, Annis
+Hag, Dune
+Hag, Dusk
+Hag, Green
+Hag, Night
+Hag, Sea
+Hag, Shrieking
+Hagspawn
+Half-Celestial
+Half-Dragon
+Half-Dragon
+Half-Dragon, Faerunian (Template)
+Half-Elemental (Template)
+Half-Elemental (Template)
+Half-Elf
+Half-Farspawn
+Half-Fey Centaur
+Half-Fey Template
+Half-Fiend
+Half-Fiend (Durzagon)
+Half-Giant
+Half-Golem
+Half-Golem, Clay
+Half-Golem, Flesh
+Half-Golem, Iron
+Half-Golem, Stone
+Half-Illithid (Template)
+Half-Illithid Lizardfolk
+Half-Illithid Template
+Half-Janni (Template)
+Halfling
+Halfling, Deep
+Halfling, Tallfellow
+Half-Ogre (Player Race)
+Half-Orc
+Half-Troll Barbazu
+Half-Troll Template
+Half-Vampire (Template)
+Hammerclaw
+Hannya
+Harakin
+Harginn, Elemental Grue
+Harpy
+Harpy Archer
+Harrier
+Harssaf
+Hawk
+Hawk, Dire
+Hawk, Dire
+Hawk, Dire
+Hebi-No-Onna
+Hell Hound
+Hell Hound, Nessian Warhound
+Hellcat (Devil)
+Hellfire Wyrm
+Helmed Horror
+Helmed Horror
+Hengeyokai
+Hezrou (Demon)
+Hieracosphinx
+Hill giant
+Hippocampus
+Hippocampus
+Hippogriff
+Hippogriff, Pseudonatural
+Hippopotamus
+Hippopotamus, Dire
+Hoard Scarab
+Hoary Hunter
+Hoary Steed
+Hobgoblin
+Hobyah
+Hollyphant
+Homunculus
+Homunculus, Dedicated Wright
+Homunculus, Expeditious Messenger
+Homunculus, Furtive Flicher
+Homunculus, Iron Defender
+Homunculus, Packmate
+Hooded Pupil (Template)
+Hook Horror
+Hopping Vampire
+Horned Beast
+Horned Devil (Cornugon)
+Horrid Animal (Template)
+Horror, Adamantine
+Horror, Electrum
+Horror, Gold
+Horror, Platinum
+Horse
+Horse, Dire
+Horse, Dire
+Horse, Heavy
+Horse, Legendary
+Horse, Light
+Horse, Valenar Riding
+Hound of the Gloom
+Hound, Mastiff
+Howler
+Huecuva
+Huecuva (Template)
+Hulking Corpse
+Hullathoin
+Human Einherjar
+Hunefer
+Hybsil
+Hydra
+Hyena
+Ibis
+Ibrandlin
+Ice Beast
+Ice Devil (Gelugon)
+Ice Paraelemental, Elder
+Ice Paraelemental, Greater
+Ice Paraelemental, Huge
+Ice Paraelemental, Large
+Ice Paraelemental, Medium
+Ice Paraelemental, Small
+Ice Serpent
+Icegaunt
+Ildriss, Elemental Grue
+Illithidae
+Illithidae, Embrac
+Illithidae, Kigrid
+Illithidae, Saltor
+Illumian (Player Race)
+Immoth
+Imp
+Imp (Devil)
+Imp, Bloodbag
+Imp, Euphoric
+Imp, Filth
+Indricothere
+Ineffable Horror
+Inevitable
+Inevitable
+Inevitable, Kolyarut
+Inevitable, Kolyarut
+Inevitable, Marut
+Inevitable, Marut
+Inevitable, Quarut
+Inevitable, Varakhut
+Inevitable, Zelekhut
+Inevitable, Zelekhut
+Inspired
+Intellect Devourer
+Invisible Stalker
+Iron Cobra
+Ironclad Mauler
+Ironmaw
+Ironthorn
+Ithyak-Ortheel
+Ixitxachitl
+Ixitxachitl, Average
+Ixitxachitl, Vampiric
+Ixzan
+Jackal
+Jackal Lord
+Jackal, Dire
+Jackelwere
+Jaculi
+Jahi
+Janni
+Jarilith (Tanar'ri)
+Jermlaine
+Jiki-Ketsu-Gaki
+Jiki-Niku-Gaki
+Jovoc (Tanar'ri)
+Juggernaut
+Julajimas
+Jumping Caltrop
+Justicator
+Kaorti
+Kappa
+Karsite
+Keening Spirit (Template)
+Keeper
+Kelp Angler
+Kelpie
+Kelubar (Demodand)
+Kelvezu (Tanar'ri)
+Kenku
+Kenku Sneak
+Kezef the Chaos Hound
+Khaasta
+Khumat, Shadow Beast
+Ki-Rin
+Klurichir (Tanar'ri)
+Kobold
+Kocrachon (Baatezu)
+Kopru
+Korobokuru
+Kraken
+Krenshar
+Kruthik, Adult
+Kruthik, Greater
+Kruthik, Hatchling
+Kuldurath
+Kuo-toa
+Kuo-Toa Leviathan
+Kython
+Kython, Adult
+Kython, Broodling
+Kython, Impaler
+Kython, Juvenile
+Kython, Slaughterking
+Kython, Slaymaster
+Lamia
+Lammasu
+Landwyrm
+Landwyrm, Desert
+Landwyrm, Forest
+Landwyrm, Hill
+Landwyrm, Jungle
+Landwyrm, Mountain
+Landwyrm, Plains
+Landwyrm, Swamp
+Landwyrm, Tundra
+Landwyrm, Underdark
+Laraken
+Lavawight
+Leech, Giant
+Leechwalker
+Legendary Animal
+Legendary Animal
+Legendary Ape
+Legendary Bear
+Legendary Eagle
+Legendary Horse
+Legendary Shark
+Legendary Snake
+Legendary Tiger
+Legendary Wolf
+Lemure (Devil)
+Leonal
+Leonal, Celestial (Guardinal)
+Leopard
+LeShay
+Leskylor
+Leskylor, Three-Headed
+Leucrotta
+Leucrotta
+Leucrotta, Changesteed
+Leviathan
+Lhosk
+Li Lung (Earth Dragon)
+Lich
+Lich, Dry (Template)
+Lillend
+Limbo Stalker
+Linnorm
+Linnorn, Corpse-Tearer
+Linnorn, Dread
+Linnorn, Gray
+Lion
+Lion, Dire
+Lion, Sea
+Lith
+Living Blasphemy
+Living Holocaust
+Living Spell
+Living Spell (Template)
+Living Vault
+Living Zombie (Template)
+Lizard
+Lizard King/Queen
+Lizard, Giant Banded
+Lizard, Horned
+Lizard, Monitor
+Lizard, Pack
+Lizard, Riding
+Lizard, Spitting Crawler
+Lizard, Subterranean
+Lizard, Woodling Monitor
+Lizardfolk
+Lizardfolk, Blackscale
+Lizardfolk, Poison Dusk
+Lizardfolk, Poison Dusk Lieutenant
+Locathah
+Loquasphinx
+Lost
+Loxo
+Loxo
+Loxo
+Lucent Worm
+Lumi
+Lumi Crusader
+Luna Moth
+Lung Wang (Sea Dragon)
+Lupinal (Celestial)
+Lurker
+Lurking Strangler
+Lycanthrope, Drow Werebat
+Lycanthrope, Werecat
+Lycanthrope, Werecrododile
+Lycanthrope, Wereserpent
+Lycanthrope, Wereshark
+Lynx
+Mad Slasher
+Maelephant
+Maenad
+Magebred Animal (Template)
+Maggot, Dire
+Maggot, Giant
+Magister (Template)
+Magma Hurler
+Magma Paraelemental, Elder
+Magma Paraelemental, Greater
+Magma Paraelemental, Huge
+Magma Paraelemental, Large
+Magma Paraelemental, Medium
+Magma Paraelemental, Small
+Magmin
+Malasynep
+Malasynep Mindmage
+Malaugrym
+Malebranche
+Malikizid, the Branded King
+Mamono
+Mane (Tanar'ri)
+Manta Ray
+Manticore
+Mantimera
+Marilith (Demon)
+Marrash
+Marrulurk
+Marrusault
+Marruspawn
+Marruspawn Abomination
+Marrutact
+Marzanna
+Mastadon
+Maug
+Maulgoth
+Maur (Hunched Giant)
+Maurezhi (Tanar'ri)
+Meazel
+Medusa
+Meenlock
+Megaloceros
+Megalodon
+Megapede
+Megatherium
+Mephit
+Mephit, Air
+Mephit, Dust
+Mephit, Earth
+Mephit, Fire
+Mephit, Glass
+Mephit, Ice
+Mephit, Magma
+Mephit, Ooze
+Mephit, Salt
+Mephit, Steam
+Mephit, Sulfur
+Mephit, Water
+Mercane
+Mercane
+Merfolk
+Metalmaster
+Mezzoloth, Yugoloth
+Midnight Construct
+Mimic
+Mind Flayer
+Mind Flayer Sorcerer
+Mind Flayer, Alhoon
+Mind Flayer, Paragon
+Mind Flayer, Psionic
+Mind Flayer, Ulitharid
+Mind Flayer, Ulitharid Psionic
+Mind Flayer, Vampire
+Mindshredder
+Mindshredder Larva
+Mindshredder Warrior
+Mindshredder Zenthral
+Mineral Warrior (Template)
+Minion of Set
+Minotaur
+Minotaur of Krynn
+Minotaur of Legend
+Mirage Mullah (Template)
+Mivilorn
+Mlarraun
+Mohrg
+Mongrelfolk
+Mongrelfolk (Player Race)
+Monkey
+Monolith, Air
+Monolith, Earth
+Monolith, Fire
+Monolith, Water
+Monster of Legend
+Moon Dog
+Moonbeast
+Mooncalf
+Mooncalf
+Moonrat
+Morkoth
+Movanic
+Mu Spore
+Muckdweller
+Mudmaw
+Mule
+Mumia (Template)
+Mummified Creature (Template)
+Mummy
+Mummy Lord
+Mummy, Greater (Template)
+Mummy, Salt
+Murk
+Mur-Zhagul (Demon Troll)
+Myconid
+Myconid, Average Worker
+Myconid, Circle Leader
+Myconid, Elder Worker
+Myconid, Guard
+Myconid, Junior Worker
+Myconid, Sovereign
+Myrlochar
+Myrmyxicus (Tanar'ri)
+Naga
+Naga, Asp
+Naga, Banelar
+Naga, Bone
+Naga, Bone (Template)
+Naga, Chameleon
+Naga, Cobra
+Naga, Constrictor
+Naga, Dark
+Naga, Greensnake
+Naga, Guardian
+Naga, Ha-Naga
+Naga, Iridescent
+Naga, Spirit
+Naga, Water
+Nagahydra
+Nalfeshnee (Demon)
+Narzugon, Devil (Baatezu)
+Nat, Einsaung
+Nat, Hkum Yeng
+Nat, Lu
+Nature Spirit, Large
+Nature Spirit, Medium
+Nature Spirit, Small
+Neanderthal
+Necromental (Template)
+Necronaut
+Necrophidius
+Necroplasm
+Necropolitan (Template)
+Necrothane
+Needlefolk
+Neh-Thalggu (Brain Collector)
+Neogi
+Neogi, Adult
+Neogi, Great Old Master
+Neogi, Spawn
+Neothelid
+Nereid
+Nerra
+Nerra, Kalareem
+Nerra, Sillit
+Nerra, Varoot
+Nethersight Mastiff
+Nezumi
+Nifern
+Night Hunter
+Night Twist
+Nightcrawler
+Nightmare
+Nightmare Beast
+Nightmare, Cauchemar
+Nightmare, Cauchemar
+Nightmare, Lesser
+Nightshade
+Nightshade, Nighthaunt
+Nightwalker
+Nightwing
+Nilshai
+Nimblewright
+Nishruu
+Nishruu
+Nixie
+Nothic
+Nycaloth, Yugoloth
+Nycter
+Nycter Defender of the Cave
+Nymph
+Nyth
+Ocean Strider
+Ochre Jelly
+Octopus
+Octopus Tree
+Octopus, Giant
+Ocularon
+Odopi
+Odopi, Elder
+Ogre
+Ogre Barbarian
+Ogre Mage
+Ogre, Skullcrusher
+Ogre, Skullcrusher Sergeant
+Omnimental
+Oni, Akuma no
+Oni, Ashi no
+Oni, Byoki no
+Oni, Common
+Oni, Gekido no
+Oni, Go-Zu
+Oni, Haino no
+Oni, Kamu no
+Oni, Kyoso no
+Oni, Me-Zu
+Oni, Sanru no
+Oni, Shikibu no
+Oni, Tsuburu no
+Oni, Ugulu no
+Oni, Yattoko no
+Onikage
+Ooze
+Ooze Paraelemental, Elder
+Ooze Paraelemental, Greater
+Ooze Paraelemental, Huge
+Ooze Paraelemental, Large
+Ooze Paraelemental, Medium
+Ooze Paraelemental, Small
+Ooze, Aquatic
+Ooze, Arcane
+Ooze, Bone
+Ooze, Brine
+Ooze, Conflagration
+Ooze, Dissolution
+Ooze, Ethereal
+Ooze, Flotsam
+Ooze, Gray
+Ooze, Infernal Conflagration
+Ooze, Lava
+Ooze, Snowflake
+Ooze, Summoning
+Ooze, Void
+Ophidian
+Orb Wraith
+Orc
+Orc, Snow Shaman
+Orca
+Orcwort
+Oread
+Orglash (Template)
+Ormyrr
+Osquip
+Otter
+Otter, Sea
+Otyugh
+Otyugh, Lifeleech
+Owl
+Owl, Giant
+Owl, Giant
+Owlbear
+Pack Fiend
+Paeliryon (Baatezu)
+Painspeaker
+Palrethee (Tanar'ri)
+Pan Lung (Coiled Dragon)
+Pegasus
+Penguin
+Pennaggolan (Template)
+Persistent Harrier, Homunculus
+Peryton
+Petal
+Petitioner
+Phaerimm
+Phaerimm
+Phaerlock
+Phantasmal Slayer
+Phantom Fungus
+Phargion
+Phase Wasp
+Phasm
+Phiuhl
+Phoelarch
+Phoenix
+Phoera
+Phrenic Creature
+Phthisic
+Pit Fiend (Devil)
+Pixie
+Plague Blight
+Plague Brush
+Plague Spewer
+Planetar (Angel)
+Planetouched
+Planetouched
+Planetouched
+Planetouched, Aasimar
+Planetouched, Air Genasi
+Planetouched, Chaon
+Planetouched, Earth Genasi
+Planetouched, Fire Genasi
+Planetouched, Maeluth
+Planetouched, Mechanatrix
+Planetouched, Shyft
+Planetouched, Tiefling
+Planetouched, Water Genasi
+Planetouched, Wispling
+Planetouched, Zenythri
+Polar Bear, Dire
+Pony
+Pony, War
+Porcupine Cactus
+Porpoise
+Portal Drake
+Praying Mantis, Giant
+Prismasaurus
+Protean Scourge
+Protean Scourge Arcanist
+Protean, Hagunemnon
+Protectar
+Pseudodragon
+Pseudonatural Creature
+Pseudonatural Creature (Template)
+Psicrystal
+Psion-Killer
+Psurlon
+Psurlon
+Psurlon, Average
+Psurlon, Average
+Psurlon, Elder
+Psurlon, Elder
+Psurlon, Giant
+Psurlon, Giant
+Pterafolk
+Pteranadon
+Pudding, White
+Puma, Dire
+Puppeteer
+Puppeteer, Flesh Harrower
+Purple Worm
+Pyrohydra
+Quaggoth
+Quaraphon
+Quaraphon Bully
+Quasit (Demon)
+Quell
+Quesar
+Quth-Maren
+Quth-Maren
+Radiant Idol
+Rage Drake
+Rage Drake, Fiendish
+Ragewalker
+Ragewind
+Raggamoffyn
+Raggamoffyn, Common
+Raggamoffyn, Guttersnipe
+Raggamoffyn, Shrapnyl
+Raggamoffyn, Tatterdemanimal
+Raiment
+Rainbow Crow
+Rakka
+Rakshasa
+Rakshasa, Ak'chazar
+Rakshasa, Naztharune
+Rakshasa, Zakya
+Ramadeen
+Ramfish
+Rampager
+Raptoran (Player Race)
+Rast
+Rat
+Rat, Dire
+Raven
+Raven, Giant
+Raven, Giant
+Ravid
+Reason Stealer
+Red Sundew
+Redcap
+Redcap, Elder
+Redcap, Young
+Reekmurk
+Rejkar
+Remorhaz
+Retriever (Demon)
+Revenant
+Revenant (Template)
+Revived Fossil (Template)
+Rhek
+Rhek, Chaosgrinder
+Rhinoceros
+Rhinoceros, Dire
+Rhinoceros, Warbeast
+Rilkan
+Rilmani
+Rilmani, Aurumach
+Rilmani, Cuprilach
+Rilmani, Ferrumach
+Rimefire Eidolon
+Roach Thrall
+Roc
+Rock Wyrm
+Rogue Eidolon
+Rokuro-Kubi
+Roper
+Roper, Primastic
+Rot Reaver
+Rothe, Deep
+Rothe, Ghost
+Rothe, Surface
+Roving Mauler
+Rukanyr
+Rukarazyll
+Runehound
+Runic Guardian
+Rusalka
+Rust Monster
+Rutterkin (Tanar'ri)
+Sacred Watcher
+Saguaro Sentinel
+Sahuagin
+Saint
+Salamander
+Salamander, Average
+Salamander, Flamebrother
+Salamander, Noble
+Sanctified Creature
+Sand Hunter
+Sarkrith
+Sarkrith, Spelleater
+Sarkrith, Thane
+Sarrukh (Progenitor Race)
+Satyr
+Scaladar
+Scalamagdrion
+Scaled Stalker
+Scorpion, Giant Whip
+Scorpion, Monstrous
+Scorpionfolk
+Scyllan
+Sea Kin (Player Race)
+Seal
+Seal
+Seawolf
+Selkie
+Senmurv
+Serval (Savannah Wildcat)
+Seryulin
+Seryulin, Greater
+Sewerm
+Shaboath
+Shadar-Kai
+Shade
+Shadow
+Shadow Asp
+Shadow Creature
+Shadow Creature (Template)
+Shadow Demon
+Shadow Jelly
+Shadow Mastiff
+Shadow of the Void
+Shadow Sibling
+Shadow, Greater
+Shadowperson
+Shadowwalker (Template)
+Shadurakul
+Shalarin
+Shambling Mound
+Shape of Fire
+Sharakim (Player Race)
+Shark
+Shark, Dire
+Shark, Huge
+Shark, Large
+Shark, Legendary
+Shark, Medium
+Sharn
+Shator (Demodand)
+Shedu
+Shen Lung (Spirit Dragon)
+Shield Guardian
+Shifter
+Shikki-Gaki
+Shinen-Gaki
+Shirokinu-Katsukami
+Shivhad
+Shocker
+Shocker Lizard
+Shredstorm
+Shrieker
+Shrieking Terror
+Sickening Sleep
+Siege Crab, Greater
+Siege Crag
+Silthilar
+Silveraith (Template)
+Sinister
+Sirine
+Sirrush
+Sisiutl
+Siv
+Skarn
+Skeletal Warbeast
+Skeletal Warrior (Template)
+Skeleton
+Skeleton, Advanced Megaraptor
+Skeleton, Chimera
+Skeleton, Cloud Giant
+Skeleton, Ettin
+Skeleton, Human Warrior
+Skeleton, Karrnathi
+Skeleton, Owlbear
+Skeleton, Troll
+Skeleton, Wolf
+Skeleton, Young Adult Red Dragon
+Skin Kite
+Skindancer
+Skirr
+Skulk
+Skulk (Player Race)
+Skulking Cyst
+Skulvyn
+Skum
+Skybleeder
+Slaad
+Slaad, Black
+Slaad, Blue
+Slaad, Death
+Slaad, Gray
+Slaad, Green
+Slaad, Mud
+Slaad, Red
+Slaad, White
+Slasrath
+Slaughter Wight
+Slaughterhouse Behemoth
+Slaughterhouse Eviscerator
+Slaymate
+Smilodon (Saber-Toothed Tiger)
+Smoke Paraelemental, Elder
+Smoke Paraelemental, Greater
+Smoke Paraelemental, Huge
+Smoke Paraelemental, Large
+Smoke Paraelemental, Medium
+Smoke Paraelemental, Small
+Snake
+Snake, Dire
+Snake, Dire
+Snake, Dung
+Snake, Flying
+Snake, Glacier
+Snake, Legendary
+Snake, Reed
+Snake, Sea
+Snake, Two-headed Adder
+Snake, Viper
+Snake, Winged Viper
+Snapping Turtle
+Snowcloak
+Snowcloak
+Solar (Angel)
+Souleater
+Soulfused Construct
+Soulmarauder, Spiritovore Energon
+Soulscaper, Spiritovore Energon
+Soulsipper, Spiritovore Energon
+Soulspark
+Spark Guardian
+Spark Lasher
+Spawn of Kyuss
+Spectral Lurker
+Spectral Lyrist
+Spectral Mage (Template)
+Spectral Minion (Template)
+Spectral Panther
+Spectral Steed
+Spectre
+Spectre, Fire
+Spell Weaver
+Spellgaunt
+Spellscale (Player Race)
+Spellstiched Ghast
+Spellstitched (Template)
+Spellstitched Creature
+Spellwarped Creature
+Spellwarped Ettin
+Spellwurm
+Sphinx
+Sphinx, Canisphinx
+Sphinx, Crocosphinx
+Sphinx, Saurosphinx
+Sphinx, Threskisphinx
+Spider Eater
+Spider, Devastation
+Spider, Giant Sun
+Spider, Giant Whip
+Spider, Hairy
+Spider, Hairy
+Spider, Harpoon
+Spider, Harpoon Dread
+Spider, Jade
+Spider, Monstrous
+Spider, Monstrous Diving
+Spider, Phase
+Spider, Shadow
+Spider, Snow
+Spider, Sword
+Spinagon, Devil (Baatezu)
+Spirit Animal
+Spirit Folk
+Spirit Folk
+Spirit of the Air
+Spirit of the Land
+Spirit Tree
+Splinterwaif
+Splinterwaif Knave
+Sporebat
+Spriggan
+Sprite
+Squamous Spewer
+Squid
+Squid, Giant
+Ssvaklor
+Ssvaklor, Greater
+Starsnake
+Starwhale
+Steeder
+Steel Predator
+Steel Predator
+Stegosaurus
+Stinger
+Stingray
+Stingtail
+Stirge
+Stone Flyer
+Stone Spike
+Stonechild
+Stonesinger
+Stormstalk
+Strider, Giant
+Succubus (Demon)
+Sunwyrm
+Susurrus
+Swamplight Lynx
+Swarm
+Swarm
+Swarm
+Swarm, Abyssal Ant
+Swarm, Air Elementite
+Swarm, Apocalypse Frog
+Swarm, Bat
+Swarm, Bloodfiend Locust
+Swarm, Bone Rat
+Swarm, Bronze Locust
+Swarm, Brood Keeper Larva
+Swarm, Centipede
+Swarm, Cinder
+Swarm, Corpse Rat
+Swarm, Cranium Rat Average Pack
+Swarm, Cranium Rat Greater Pack
+Swarm, Cranium Rat Lesser Pack
+Swarm, Deathraven
+Swarm, Divine Wrath
+Swarm, Dread Blossom
+Swarm, Earth Elementite
+Swarm, Ephemeral
+Swarm, Fire Elementite
+Swarm, Hellwasp
+Swarm, Hoard Scarab
+Swarm, Jellyfish
+Swarm, Leech
+Swarm, Locust
+Swarm, Murder of Crows
+Swarm, Needletooth
+Swarm, Piranha
+Swarm, Plague Ant
+Swarm, Rancid Beetle
+Swarm, Rapture Locust
+Swarm, Rat
+Swarm, Ruin
+Swarm, Scarab Beetle
+Swarm, Scarab Death
+Swarm, Scorpion
+Swarm, Shimmerling
+Swarm, Spider
+Swarm, Sunfly
+Swarm, Swamp Strider
+Swarm, Viper
+Swarm, Wasp
+Swarm, Water Elementite
+Swarm-Shifter (Template)
+Swordwraith Template
+Sylph
+Symbiont, Living Breastplate
+Symbiont, Tentacle Whip
+Symbiont, Tongueworm
+Taer
+Taint Elemental, Elder
+Taint Elemental, Greater
+Taint Elemental, Huge
+Taint Elemental, Large
+Taint Elemental, Medium
+Taint Elemental, Small
+Tainted Minion (Template)
+Tainted Raver (Template)
+Tako
+Tall Mouther
+Tall Mouther
+Tanarukk
+Tarmak
+Tarrasque
+Tasloi
+Tasloi
+Tauric Creature
+Tauric Hobgoblin-Griffon
+Tayellah
+Teant
+Telthor (Template)
+Temporal Filcher
+Tendriculos
+Tengu, Crow-Headed
+Tengu, Human-Headed
+Teratomorph
+Terlen
+Termite, Queen
+Termite, Soldier
+Termite, Worker
+Terror Bird
+Terror, Five-Headed
+Terror, Ten-Headed
+Thanoi (Walrus-Folk)
+Thaskor, Shadow Beast
+Thomil (Template)
+Thoqqua
+Thorciasid
+Thorn
+Thought Eater
+Thought Slayer
+Thri-Kreen
+Thri-Kreen
+Thri-Kreen
+Thri-Kreen
+Throwing Scarab
+Thrum Worm
+Thudhunter
+Thunder Worm
+Thunderbird
+Tiamat, the Chromatic Dragon
+Tiefling (Player Race)
+T'ien Lung (Celestial Dragon)
+Tiger
+Tiger, Dire
+Tiger, Legendary
+Tiger, Legendary
+Tiger, Red
+Tiger, Sea
+Ti-Khana Template
+Titan
+Titan, Elder
+Titanic Creature
+Tlalusk
+Toad
+Toad, Dire
+Toad, Dire
+Toad, Fire
+Toad, Giant
+Toad, Ice
+Toad, Ice
+Toad, Poisonous
+Toad, Titanic
+Tojanida
+Tojanida, Adult
+Tojanida, Elder
+Tojanida, Juvenile
+Tomb Mote
+Tomb Tapper
+Tomb Tapper
+Tooth Beast
+Topiary Guardian
+Topiary Guardian, Alternative
+Topiary Guardian, Boar
+Topiary Guardian, Lion
+Topiary Guardian, Triceratops
+Tortoise, Dire
+Treant, Elder
+Tree Python
+Tren
+Tressym
+Tressym
+Trilloch
+Triton
+Troglodyte
+Troll
+Troll Hunter
+Troll, Cave
+Troll, Crystalline
+Troll, Fell
+Troll, Forest
+Troll, Ice
+Troll, Mountain
+Troll, Psuedonatural
+Troll, War
+Troll, Wasteland
+Tsucora Quori
+Tsuno
+Tumbling Mound
+Tun Mi Lung (Typhoon Dragon)
+Tunnel Terror
+Tusked Behemoth
+Twig Blight
+Twig Blight
+Uchuulon (Slime Chuul)
+Udoroot
+Uldra
+Ulgurstasta
+Ultroloth, Yugoloth
+Umber Hulk
+Umber Hulk, Truly Horrid
+Umbral Banyan, Ephemera
+Umbral Blot (Blackball)
+Umbral Creature (Template)
+Unbodied
+Undead Martyr
+Underfolk (Player Race)
+Undying Councilor
+Undying Soldier
+Undying Wizard
+Unholy Scion (Template)
+Unicorn
+Unicorn, Black
+Unicorn, Celestial Charger
+Unraveler
+Urdark
+Ur'epona
+Uridezu, Demon (Tanar'ri)
+Urophion
+Urskan
+Uthraki
+Uvuudaum
+Vaath
+Valkyrie
+Valkyries' Mount
+Vampire
+Vampire Spawn
+Vampire, Monstrous (Template)
+Vaporighu
+Vardigg, Elemental Grue
+Vargouille
+Varrangoin
+Varrangoin, Arcanist
+Varrangoin, Lesser
+Varrangoin, Rager
+Vasuthant
+Vasuthant, Horrific
+Velvet Worm, Giant
+Vermin Lord
+Vermiurge
+Vilewight
+Vine Horror
+Violet Fungus
+Viper, Celestial
+Viper, Fiendish
+Visage
+Visilight
+Vivacious Creature (Template)
+Vodyanoi
+Voidmind Creature
+Voidmind Grimlock
+Voidwraith
+Volodni
+Vorr
+Vour
+Vrock (Demon)
+Vultivor
+Vulture
+Vulture, Dire
+Walking Statue of Waterdeep
+Walking Wall
+Walrus
+Wang-Liang
+War Mastiff
+Warbeast
+Warbound Impaler (Lesser Battlebriar)
+Warforged
+Warforged Charger
+Warforged Scout
+Warforged Titan
+Warhorse, Heavy
+Warhorse, Light
+Wasp, Giant
+Waste Crawler (Anhydrut)
+Wastrilith
+Watchspider
+Weasel
+Weasel, Dire
+Weird, Air
+Weird, Earth
+Weird, Fire
+Weird, Water
+Wemic
+Wendigo Template
+Werebat
+Werebear (Lycanthrope)
+Wereboar (Lycanthrope)
+Werecrocodile
+Werecrocodile
+Wererat (Lycanthrope)
+Wereshark
+Weretiger (Lycanthrope)
+Werewolf (Lycanthrope)
+Werewolf lord (Lycanthrope)
+Whale
+Wheep
+Whipsnake
+Wicker Man
+Wight
+Wight, Dust
+Will-o'-Wisp
+Wilora
+Windghost
+Winter Cyst
+Winter Wolf
+Winterspawn
+Winterwight
+Witchknife
+Witchknife Captain
+Wolf
+Wolf, Dire
+Wolf, Legendary
+Wolverine
+Wolverine, Dire
+Wood Woad
+Woodling
+Woodling Druid
+Woolly Mammoth
+Worg
+Worm that Walks
+Wortling
+Wraith
+Wraith Spider, Colossal
+Wraith Spider, Gargantuan
+Wraith Spider, Huge
+Wraith Spider, Large
+Wraith Spider, Medium
+Wraith Spider, Small
+Wraith, Incarnum
+Wraith, Sea
+Wyste
+Wyste
+Wyvern
+Xag-Ya
+Xeph
+Xerfilstyx (Baatezu)
+Xill
+Xorn
+Xorn, Average
+Xorn, Elder
+Xorn, Minor
+Yak Folk
+Yellow Muck Zombie Template
+Yellow Musk Creeper
+Yellow Musk Zombie Orc
+Yeth Hound
+Yeti
+Yeti
+Yeti, Abominable
+Yrthak
+Yu Lung (Carp Dragon)
+Yuan-ti
+Yuan-ti (Template)
+Yuan-ti (Template)
+Yuan-ti Anathema
+Yuan-ti Halfblood
+Yuan-ti Holy Guardian
+Yuan-ti Mage Slayer
+Yuan-ti Pureblood
+Yuan-ti, Abomination
+Yuan-ti, Halfblood
+Yuan-ti, Psionic
+Yuan-ti, Pureblood
+Yuant-ti Abomination
+Yugoloth
+Yugoloth
+Yugoloth, Arcanaloth
+Yugoloth, Canoloth
+Yugoloth, Echinoloth
+Yugoloth, Marraenoloth
+Yugoloth, Mezzoloth
+Yugoloth, Nycaloth
+Yugoloth, Nycaloth Commander
+Yugoloth, Piscoloth
+Yugoloth, Skeroloth
+Yugoloth, Ultraloth
+Yugoloth,Yyagnoloth
+Yuki-On-Na
+Yuki-On-Na
+Yurian
+Zaratan
+Zeugalak
+Zeuglodon
+Zezir
+Zodar
+Zombie
+Zombie, Bugbear
+Zombie, Gray Render
+Zombie, Human Commoner
+Zombie, Juju (Template)
+Zombie, Karrnathi
+Zombie, Kobold
+Zombie, Minotaur
+Zombie, Necrocarnum
+Zombie, Ogre
+Zombie, Rancid Beetle
+Zombie, Troglodyte
+Zombie, Tyrantfog
+Zombie, Umber Hulk
+Zombie, Wyvern
+Zovvuut
+Astral Construct
+Agile Loper
+Alabaster Aerial
+Amber Tunneler
+Anathemic Carapace
+Astral Aquan
+Ebony Stinger
+Emerald Gyre
+Iridescent Serpent
+Ectoplasmic Swarm
+Elemental Steward, Arctine
+Elemental Steward, Emberling
+Elemental Steward, Geodite
+Elemental Steward, Tempestan
+Larval Flayer
+Shadow Fet
+Sibyllic Guardian
+Spectral Savant (Template)
+Armanite
+Bar-Lgura
+Broodswarm
+Bulezau
+Chasme
+Dybbuk
+Ekolid
+Goristro
+Guecubu
+Lilitu
+Mane
+Molydeus
+Nabassu
+Rutterkin
+Sibriex
+Yochlol
+Black Rock Triskelion (Earth Avatar)
+Cyclonic Ravager (Air Avatar)
+Holocaust Disciple (Fire Avatar)
+Waterveiled Assassin (Water Avatar)
+Balhannoth
+Bloodfire Ooze
+Bloodhulk Fighter
+Bloodhulk Giant
+Bloodhulk Crusher
+Bloodsilk Spider
+Briarvex
+Clockroach
+Clockwork Mender
+Clockwork Steed
+Concordant Killer
+Corrupture
+Defacer
+Deathdrinker
+Kastighur
+Nashrou
+Whisper Demon
+Demonhive Attendant
+Demonet Swarm
+Demonhive Queen
+Dwarf Ancestor
+Lolth's Sting
+Dark Sniper
+Arcane Guard
+Drow Priestess
+Craa'ghoran Giant
+Gish
+Githyanki Soldier
+Githyanki Captain
+Slave-Taker
+Fiendish Cleric of Yeenoghu
+Half-Fiend Gnoll Warlock
+Fang Golem
+Howler Wasp
+Howler Wasp Queen
+Inferno Spider
+Joystealer
+Justice Archon
+Justice Archon Champion
+Dark Talon Soldier
+Dark Talon Champion (Raging)
+Dark Talon Wasp Rider
+Giant Wasp Mount
+Dark Talon Shaman
+Yarshag
+Giant Stag Beetle Vermin Companion
+Lodestone Marauder
+Lolth-Touched Bebilith
+Lolth-Touched Drow Ranger
+Lolth-Touched Monstrous Hunting Spider
+Lunar Ravager
+Mageripper Swarm
+Greathorn Minotaur
+Nagatha
+Necrosis Carnex
+Oaken Defender
+Ogre Scout
+Ogre Tempest
+Ogre Guard Thrall
+Orc Berserker
+War Howler
+Orc Battle Priest
+Orc Plague Speaker
+Half-Orc Infiltrator
+Plague Walker
+Quanlos
+Sailsnake
+Skiurid
+Blackspawn Raider
+Blackspawn Exterminator
+Blackspawn Stalker
+Bluespawn Ambusher
+Bluespawn Burrower
+Bluespawn Godslayer
+Bluespawn Stormlizard
+Greenspawn Leaper
+Greenspawn Razorfiend
+Greenspawn Sneak
+Greenspawn Sneak Raid Leader
+Redspawn Arcaniss
+Redspawn Firebelcher
+Whitespawn Hordeling
+Whitespawn Hunter
+Whitespawn Berserker
+Whitespawn Iceskidder
+Tomb Spider
+Tomb Spider Broodswarm
+Web Mummy
+Varag
+Varag Pack Leader
+Verdant Prince
+Vitreous Drinker
+Windrazor
+Windscythe
+Wizened Elder
+Wrackspawn
+Pureblood Slayer
+Halfblood Deceiver
+Abomination Cult Leader
+Yuan-ti Ignan
+Corruptor of Fate
+Corruptor of Fate Assassin
+Voor
+Dreadful Lasher
+Zern
+Zern Arcanovore
+Zern Blade Thrall
+Alchemy Beetle
+Dream Serpent
+Jungle Giant
+Primordial Giant (Template)
+Scorrow
+Tentacle Spider
+Quorcraft Warforged
+Warforged Scorpion
+Yuan-ti Wretchling
+Bluespawn Stoneglider
+Krathbairn
+Redspawn Birther
+Spectral Creature (Template)
+Mercury Dragon
+Steel Dragon
+Mist Dragon
+Naityan Rakshasa
+Reth Dekala
+Valkyrie
+Aspect of Bahamut
+Aspect of Tiamat
+Blazewyrm
+Drakkensteed
+Huitzil
+Phynxkin
+Phynxkin, Dire
+Redspawn Berserker
+Spelleater
+Twilight Guardian
+Velroc
+Siege Golem
+Cesspit Ooze
+Ripper
+Sepulchral Thief (Template)
+Pest Swarm
+Zeitgeist
+Abishai
+Abishai, Black (Baatezu)
+Abishai, Blue (Baatezu)
+Abishai, Green (Baatezu)
+Abishai, Red (Baatezu)
+Abishai, White (Baatezu)
+Amnizu
+Assassin Devil (Dogai)
+Ayperobos Swarm
+Harvester Devil (Falxugon)
+Hellfire Engine
+Kalabon
+Legion Devil (Merregon)
+Malebranche
+Narzugon
+Nupperibo
+Orthon
+Paeliryon
+Pain Devil (Excruciarch)
+Pleasure Devil (Brachina)
+Spined Devil (Spinagon)
+Steel Devil (Bueroza)
+Xerfilstyx
+Aspect of Bel
+Aspect of Dispater
+Aspect of Mammon
+Aspect of Belial
+Aspect of Levistus
+Aspect of Glasya
+Aspect of Baalzebul
+Aspect of Mephistopheles
+Aspect of Asmodeus
+Ascomoid
+Rot Grub Swarm
+Acidborn Monster (Template)
+Dungeonbred Monster (Template)
+Guardian Monster (Template)
+Sentry Ooze (Template)
+Hivenest Monster (Template)
+Essence Reaver
+Quorbound Creature (Template)
+Quorbred Creature (Template)
+Du'ulora Quori
+Hashalaq Quori
+Kalaraq Quori
+Aspect of Graz'zt
+Aspect of Obox-Ob
+Aspect of Yeenoghu
+Corrupted by the Abyss (Template)
+Dabus
+Demon, Cambion
+Demon, Carnevus
+Demon, Oculus
+Envoy of Lolth
+Giant, Abyssal
+Lamia Noble
+Mirror Mephit
+Ratatosk
+Viper Tree, Elder
+Adamantine Spider
+Chwidencha
+Draegloth
+Dragon, Deep
+Elf, Albino Drow (Szarkai)
+Goblinoid, Bugbear
+Goblinoid, Vril
+Husk Vermin (Template)
+Kuo-Toa
+Lizard, Giant
+Footpad Lizard
+Quicksilver Lizard
+Subterranean Lizard
+Quaggoth
+Shunned
+Spider, Monstrous
+Spitting Spider
+Tangle Terror
+Widowmaker
+Troll
+Venom Ooze
+Arcane Ballista
+Karrnathi Dread Marshal
+Mistling (Template)
+Umbral Spy
+Warforged Raptor
+Beholderkin, Eyeball Swarm
+Myconid Venom Spore
+Snake Head
+Beast of Bane (Template)
+Fire Spider Swarm
+Shadow Simulacrum (Template)
+Shadowslain (Template)
+Arcadian Avenger
+Banshrae
+Blackwing
+Burrow Root
+Dalmosh
+Deadborn Vulture
+Adaru
+Carnage Demon
+Draudnu
+Gadacro
+Solamith
+Demonthorn Mandrake
+Gulthir
+Remmanon
+Stitched Devil
+Dragon of the Great Game (Template)
+Xorvintaal Dragon (Template)
+Xorvintaal Exarch (Template)
+Ken-Kuni
+Ken-Li
+Ken-Sun
+Ember Guard
+Ethereal Defiler
+Fetid Fungus
+Frostwind Virago
+Garngrath
+Gem Scarab
+God-Blooded Creature ('Template)
+Force Golem
+Magmacore Golem
+Graveyard Sludge
+Greenspawn Zealot
+Guulvorg
+Bridge Haunt
+Forest Haunt
+Taunting Haunt
+Hobgoblin Duskblade
+Hobgoblin Spellscourge
+Hobgoblin Warcaster
+Hobgoblin Warsoul
+Illurien
+Jaebrin
+Crazed Kuo-Toa
+Kuo-Toa Exalted Whip
+Kuo-Toa Harpooner
+Kuo-Toa Monitor
+Malastor
+Merchurion
+Thoon Disciple
+Shadow Flayer
+Thoon Infiltrator
+Thoon Thrall (Template)
+Thoon Soldier
+Madcrafter of Thoon
+Scyther of Thoon
+Stormcloud of Thoon
+Thoon Hulk
+Thoon Elder Brain
+Mockery Monarch
+Mockery Drone
+Phantom (Template)
+Ruin Chanter
+Ruin Elemental
+Rylkar Harridan
+Rylkar Madclaw
+Rylkar Tormentor
+Rylkspawn Swarm
+Sanguineous Drinker
+Scouring Slinger
+Slinger Scorpion
+Scouring Stanchion
+Shaedling
+Shardsoul Slayer
+Siege Beetle
+Skull Lord
+Bonespur
+Serpentir
+Spectral Rider
+Lesser Spawn of Juiblex
+Greater Spawn of Juiblex
+Elder Spawn of Juiblex
+Spirrax
+Steelwing
+Thrym Hound
+Tirbana Eyewing
+Tirbana Drowser
+Tirbana Slayer
+Tirbana Spawner
+Bladerager Troll
+Tusk Terror
+Arkamoi
+Hadrimoi
+Lashemoi
+Turlemoi
+Verdant Reaver
+Vine Spawn
+Vivisector
+Master of the Hunt
+Hound of the Hunt
+Aurumvorax
+Cataboligne Demon
+Krinth
+Shadow Sea Serpent
+Sharn
+Veserab
