@@ -1,0 +1,117 @@
+@import url(http://fonts.googleapis.com/css?family=Eater);
+
+html, body {
+	width: 100%;
+	height: 100%;
+	background-color: #191919;
+}
+
+#login {
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	margin: auto;
+	top: 0; left: 0; right: 0; bottom: 0;
+	border: 3px solid #27ae60;
+}
+
+h1 {
+	font-family: Eater;
+	color: #27ae60;
+	text-align: center;
+}
+
+#loginform {
+	position: static;
+	width: 80%;
+	margin: auto;
+}
+
+input:focus { outline: none; }
+::-webkit-input-placeholder { color: #191919; }
+:-moz-placeholder { color: #191919; }
+::-moz-placeholder { color: #191919; }
+:-ms-input-placeholder { color: #191919; }
+
+form { position: relative; }
+
+a {
+	color: #27ae60;
+	text-align: center;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+input.text {
+	position: static;
+	padding: 5px;
+	border: none;
+	height: 40px;
+	width: 100%;
+	background-color: #27ae60;
+	color: #191919;
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+div#searchbox {
+	width: 80%;
+	margin: auto;
+}
+
+input.search {
+	display: block;
+	float: left;
+	width: 80%;
+	margin: auto;
+	height: 40px;
+	background-color: #27ae60;
+	font-size: 20px;
+	border: none;
+	padding: 5px;
+}
+
+input.find {
+	border: 3px solid #27ae60;
+	height: 40px;
+	width: 20%;
+	color: #27ae60;
+	background-color: #191919;
+	font-size: 20px;
+}
+
+input.submit {
+	position: static;
+	border: 3px solid #27ae60;
+	height: 40px;
+	width: 100%;
+	color: #27ae60;
+	background-color: #191919;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+table {
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	width: 80%;
+	margin: auto;
+}
+
+td.first, td.last {
+	width: 40%;
+	color: white;
+}
+
+td.age {
+	width: 20%;
+	color: white;
+}
+
+input.submit:active { background-color: #27ae60; color: #191919; }
