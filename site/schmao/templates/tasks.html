@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+	<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='flag.css') }}">
+		<title>ShmowCTF 2014</title>
+	</head>
+	<body>
+		<header>
+			<h1>Shmow CTF</h1>
+		</header>
+		<div id="content">
+			<div id="grid">
+			{% for row in grid %}
+				<div class="chall-container">
+				{% for column in row %}
+					{% if column != '' %}
+						<div class = "{{ 'chall-box ' ~ column.category|lower}}">
+							<h2 class="type">{{ column.category }}</h2>
+							<h1 class="points">{{ column.points }}</h1>
+							<p class="name">{{ column.name }}</p>
+						</div>
+					{% else %}
+						<div class = "chall-box empty">
+						</div>
+					{% endif %}
+				{% endfor %}
+				</div>
+			{% endfor %}
+			</div>
+			<div id="navbox">
+				<div id="leaderboard">
+					<table>
+						<tr>
+							<td class="place">1</td>
+							<td class="name">majorstringy</td>
+							<td class="points">1500</td>
+						</tr>
+						<tr>
+							<td class="place">2</td>
+							<td class="name">mandatory</td>
+							<td class="points">1200</td>
+						</tr>
+						<tr>
+							<td class="place">3</td>
+							<td class="name">funky</td>
+							<td class="points">1100</td>
+						</tr>
+						<tr>
+							<td class="place">4</td>
+							<td class="name">zachzor</td>
+							<td class="points">900</td>
+						</tr>
+						<tr>
+							<td class="place">5</td>
+							<td class="name">sphinx</td>
+							<td class="points">600</td>
+						</tr>
+						<tr>
+							<td class="place">6</td>
+							<td class="name">arsinh</td>
+							<td class="points">400</td>
+						</tr>
+						<tr>
+							<td class="place">7</td>
+							<td class="name">tomcr00se</td>
+							<td class="points">100</td>
+						</tr>
+					</table>
+				</div>
+				<div id="chall-info">
+					<h1 class="name"></h1>
+					<p class="desc"></p>
+					<p class="links"></p>
+					<form id="flagsubmit">
+						<input type="text" id="flag">
+						<input type="submit" id="solve">
+					</form>
+				</div>
+			</div>
+		</div>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type=text/javascript>
+  		$SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+
+  		$(function() {
+  			$('div.chall-box').bind('click', function() {
+  				$.getJSON('/task', {
+  					name: $('p', this).text()
+  				}, function(data) {
+  					var info = $('#chall-info');
+  					$('h1', info).text(data.name);
+  					$('.desc', info).text(data.desc);
+  					$(info).attr('class', data.category);
+  					info = $('#flagsubmit');
+  					$('input[type=submit]', info).attr('class', data.category);
+  				});
+  				return false;
+  			});
+
+  			$('#solve').bind('click', function() {
+  				$.getJSON('/solve', {
+  					name: $('.name', $('#chall-info')).text(), 
+  					flag: $('#flag').val()
+  				}, function (data) {
+  					console.log(data.solved);
+  				});
+  				return false;
+  			});
+  		});
+		</script>
+	</body>
+</html>

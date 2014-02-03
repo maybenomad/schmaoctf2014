@@ -1,0 +1,197 @@
+@import url(http://fonts.googleapis.com/css?family=Press+Start+2P|Lato);
+
+$darkblue: #2c3e50;
+$blue: #34495e;
+$font_ps2: 'Press Start 2P';
+$font_ho: Lato;
+
+html, body {
+	height: 100%;
+	margin: 0;	
+	background-color: $blue;
+	color: white;
+}
+
+a { color: white; }
+
+input:focus { outline: none; }
+
+header {
+	background-color: $darkblue;
+	position: static;
+	height: 70px;
+
+	h1 {
+		font-family: $font_ps2;
+		line-height: 70px;
+		margin: 0;
+		margin-left: 20px;
+		color: white;
+	}
+}
+
+#content {
+	width: 1000px;
+	height: 600px;
+	margin: auto;
+	position: absolute;
+	top: 50px; bottom: 0; right: 0; left: 0;
+}
+
+#grid {
+	float: left;
+	height: 600px;
+	width: 600px;
+}
+
+#navbox {
+	float: left;
+	width: 400px;
+	height: 100%;
+}
+
+#leaderboard {
+	float: right;
+	width: 400px;
+	height: 50%;
+	box-sizing: border-box;
+	padding: 10px;
+	overflow: auto;
+
+	td.name, td.place, td.points {
+		height: 15%;
+		font-family: $font_ho;
+		font-size: 20px;
+		color: white;
+		padding: 10px;
+	}
+
+	td.place { 
+		border-right: 1px solid white; 
+		width: 10%;
+	}
+	td.name { width: 70%; }
+	td.points { width: 20%; }
+}
+
+#chall-info {
+	float: right;
+	width: 400px;
+	height: 50%;
+	box-sizing: border-box;
+	padding: 15px;
+
+	h1.name, p.desc, p.links {
+		margin: auto;
+		font-family: $font_ho;
+		text-align: center;
+		padding: 3px;
+	}
+
+	form#flagsubmit {
+		position: relative;
+		margin: auto;
+		width: 90%;
+		margin: 10px;
+
+		input[type=text] {
+			box-sizing: border-box;
+			float: left;
+			border: none;
+			width: 70%;
+			height: 30px;
+			padding: 0;
+			padding-left: 5px;
+			font-size: 16px;
+		}
+
+		input[type=submit] {
+			border-radius: 0;
+			width: 30%;
+			height: 30px;
+			border: 3px solid white;
+			color: white;
+			&:hover { cursor: pointer; }
+		}
+	}
+}
+
+//
+// Challenge grid row. 
+//
+.chall-container {
+	margin: auto;
+	width: 600px;
+	height: 150px;
+}
+
+//
+// Challenge grid cell. 
+// 
+.chall-box {
+	position: relative;
+	float: left;
+	box-sizing: border-box;
+
+	height: 150px;
+	width: 150px;
+	padding: 20px 10px;
+
+	h2.type, h1.points, p.name {
+		margin: auto;
+		font-family: $font_ho;
+		text-align: center;
+	}
+
+	p.name {
+		margin: 5px 0;
+		font-size: 16px;
+	}
+
+	h1.points { font-size: 40px; }
+	h2.type { font-size: 20px; }
+	&:hover { cursor: pointer; }
+}
+
+.chall-info {
+	height: 100%;
+	width: 100%;
+
+	&:hover { background-color: none; }
+
+	input[type=submit] {
+		border-radius: 0;
+		background-color: $blue;
+		width: 60px;
+		height: 30px;
+		border: 3px solid white;
+		color: white;
+		&:hover { cursor: pointer; }
+	}
+}
+
+//
+// Challenge and state-specific color schemes. 
+//
+.crypto { background-color: #c0392b; 
+					&:hover { background-color: #e74c3c; }}
+.reverse { background-color: #27ae60; 
+					 &:hover { background-color: #2ecc71; }}
+.forensics { background-color: #8e44ad; 
+					   &:hover { background-color: #9b59b6; }}
+.pwnable { background-color: #2980b9; 
+					 &:hover { background-color: #3498db; }}
+.web { background-color: #f39c12; 
+			 &:hover { background-color: #f1c40f; }}
+.misc { background-color: #d35400; 
+				&:hover { background-color: #e67e22; }}
+.empty { background-color: $blue; 
+				 &:hover { background-color: $blue; }}
+.pwned { 
+	border: 3px solid #2c3e50; 
+	color: #2ce350; 
+	&:hover {
+		color: white;
+		border: 3px solid white;
+	}
+}
