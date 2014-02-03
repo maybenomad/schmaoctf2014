@@ -12,7 +12,8 @@ def before_request():
 def index():
 	status = request.cookies.get("status")
 	if status != None and base64.b64decode(status) == "wizard":
-		return render_template('index.html', flag="w1z4rdz__rul3")
+		print "Hit here"
+		return render_template('index.html', flag="wizards only fools")
 	resp = make_response(render_template('index.html'))
 	resp.set_cookie('status', base64.b64encode("not_wizard"))
 	return resp
