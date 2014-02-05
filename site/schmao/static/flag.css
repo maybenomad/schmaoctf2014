@@ -35,7 +35,11 @@ header {
 #grid {
   float: left;
   height: 600px;
-  width: 600px; }
+  width: 600px;
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(gunterback.png); }
 
 #navbox {
   float: left;
@@ -97,18 +101,72 @@ header {
       #chall-info form#flagsubmit input[type=submit]:hover {
         cursor: pointer; }
 
+.login {
+  position: absolute;
+  height: 60%;
+  width: 50%;
+  margin: auto;
+  top: -50px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: #2c3e50;
+  padding: 50px 0;
+  box-sizing: border-box; }
+  .login h1 {
+    font-family: Lato;
+    text-align: center; }
+  .login input[type=text] {
+    display: block;
+    border: 5px solid #34495e;
+    width: 80%;
+    margin: auto;
+    height: 30px;
+    padding: 5px;
+    font-size: 20px; }
+  .login #buttonwrap {
+    width: 70%;
+    margin: auto;
+    margin-top: 30px; }
+  .login button {
+    font-size: 20px;
+    padding: 0;
+    border: 5px solid #34495e;
+    background-color: #2c3e50;
+    display: inline;
+    margin: 0;
+    border-radius: 0;
+    width: 45%;
+    height: 50px;
+    color: white; }
+    .login button:hover {
+      cursor: pointer; }
+  .login button#register {
+    background-color: #e74c3c;
+    border-color: #c0392b; }
+
 .chall-container {
   margin: auto;
   width: 600px;
   height: 150px; }
 
+.dchall-container {
+  margin: auto;
+  width: 600px;
+  height: 300px; }
+
+.tchall-container {
+  float: left;
+  height: 300px;
+  width: 150px; }
+
 .chall-box {
   position: relative;
   float: left;
   box-sizing: border-box;
+  padding: 20px 10px;
   height: 150px;
-  width: 150px;
-  padding: 20px 10px; }
+  width: 150px; }
   .chall-box h2.type, .chall-box h1.points, .chall-box p.name {
     margin: auto;
     font-family: Lato;
@@ -122,6 +180,10 @@ header {
     font-size: 20px; }
   .chall-box:hover {
     cursor: pointer; }
+
+.small-box {
+  height: 150px;
+  width: 150px; }
 
 .chall-info {
   height: 100%;
@@ -163,11 +225,6 @@ header {
   .web:hover {
     background-color: #f1c40f; }
 
-.misc {
-  background-color: #d35400; }
-  .misc:hover {
-    background-color: #e67e22; }
-
 .empty {
   background-color: #34495e; }
   .empty:hover {
@@ -175,7 +232,7 @@ header {
 
 .pwned {
   border: 3px solid #2c3e50;
-  color: #2ce350; }
+  color: #2c3e50; }
   .pwned:hover {
     color: white;
     border: 3px solid white; }

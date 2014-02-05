@@ -1,0 +1,13 @@
+{% extends "main.html" %}
+
+{% block content %}
+<form class="login" method="post">
+	<h1>Login/Register</h1>
+	<input type="text" name="username" placeholder="Username">
+	<div id="buttonwrap">
+		<button name="login" value="login">Login</button>
+		<button id="register" name="register" style="float: right;" value="register">Register
+		</button>
+	</div>
+</form>
+{% endblock %}
