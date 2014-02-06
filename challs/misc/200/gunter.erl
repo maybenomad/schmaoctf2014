@@ -16,7 +16,6 @@ connect() ->
 loop(Socket) ->
 	receive
 		{tcp, _, Data} ->
-			io:format("~s", [Data]),
 			lists:foreach(fun
 				(N) ->
 					io:format("~p~n", [N]),
@@ -28,26 +27,36 @@ loop(Socket) ->
 			gen_tcp:close(Socket);
 		{tcp_error, _, _} ->
 			io:format("Error"),
-			gen_tcp:close(Socket)
+			gen_tcp:close(Socket);
+		_ ->
+			io:format("")
 	end.
 
 eval(S,Environ) ->
-	case erl_scan:string(S) of
-		{ok, Scanned, _} ->
-			case erl_parse:parse_exprs(Scanned) of
-				{ok, Parsed} ->
-					try erl_eval:exprs(Parsed,Environ) of
-						{value, Value, NewBindings} ->
-							{value, Value}
-					catch
-						_:_ ->
-							{error, "Error evaling code!"}
+	io:format("~s~n", [S]),
+	case string:str(S, "os:") of
+		0 ->
+			case erl_scan:string(S) of
+				{ok, Scanned, _} ->
+					case erl_parse:parse_exprs(Scanned) of
+						{ok, Parsed} ->
+							try erl_eval:exprs(Parsed,Environ) of
+								{value, Value, NewBindings} ->
+									{value, Value}
+							catch
+								_:_ ->
+									{error, "Error evaling code!"}
+							end;
+						{error, {_, _, ErrorInfo}} ->
+							{error, ErrorInfo}
 					end;
-				{error, {_, _, ErrorInfo}} ->
-					{error, ErrorInfo}
+				{error, {_, _, ErrorInfo}, _} ->
+					{error, ErrorInfo};
+				_ ->
+					{error, "Oops something is wrong!"}
 			end;
-		{error, {_, _, ErrorInfo}, _} ->
-			{error, ErrorInfo}
+		_ ->
+			{error, "Cannot use OS module! Sorry."}
 	end.
 
 parse(Socket, Line) -> % parse fixes any strings with : in them before sending them to parse_line
@@ -71,6 +80,14 @@ parse_line(Socket, [User,"PRIVMSG",Channel|Rest]) ->
 					irc_privmsg(Socket, Nick, lists:flatten(R));
 				{error, ErrorInfo} ->
 					irc_privmsg(Socket, Nick, ErrorInfo)
+			end;
+		_ ->
+			[Command|_] = Rest,
+			case Command of
+				"Gunter" ->
+					irc_privmsg(Socket, Channel, "Wenk.");
+				_ ->
+					io:format("")
 			end
 	end;
 
