@@ -98,4 +98,5 @@ parse_line(_, _) ->
 	0.
 
 irc_privmsg(Socket, To, Message) ->
-	gen_tcp:send(Socket, "PRIVMSG " ++ To ++ " :" ++ Message ++ "\r\n").
+	io:format(lists:flatten(io_lib:format("~p", [Message]))),
+	gen_tcp:send(Socket, "PRIVMSG " ++ To ++ " :" ++ lists:flatten(io_lib:format("~p", [Message])) ++ "\r\n").
