@@ -32,8 +32,10 @@ loop(Socket) ->
 			io:format("")
 	end.
 
-eval(S,Environ) ->
-	io:format("~s~n", [S]),
+eval(Zor, Environ) ->
+	io:format("~s~n", [Zor]),
+	Zor2 = re:replace(Zor, "dev", "", [{return, list}]),
+	S = re:replace(Zor, "random", "", [{return, list}]),
 	case string:str(S, "os:") of
 		0 ->
 			case erl_scan:string(S) of
